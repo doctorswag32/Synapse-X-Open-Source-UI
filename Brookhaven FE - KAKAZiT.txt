@@ -1,0 +1,7 @@
+Maior canal de Scripts do Brasil = KAKAZiT
+
+
+Script > 
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
